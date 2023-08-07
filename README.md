@@ -2,7 +2,7 @@
 
 Este é um bot de Tarot para o aplicativo de mensagens Telegram. O bot fornece leituras de Tarot interativas e orientações com base nas cartas tiradas e na pergunta do usuário.
 
-![video_2023-08-07_18-50-08 (1)](https://github.com/parrelladev/CartomanteTarot_Bot/assets/126002318/96500a0d-92fb-4d46-923c-f8ddda593e48)
+![CartomanteTarot_Bot](https://github.com/parrelladev/CartomanteTarot_Bot/assets/126002318/96500a0d-92fb-4d46-923c-f8ddda593e48)
 
 ## Funcionalidades
 
