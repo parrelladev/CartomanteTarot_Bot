@@ -4,11 +4,11 @@ import openai
 import os
 
 # Insira o token do seu bot do Telegram aqui
-bot_token = '6480600722:AAF94PUwyNWwYhFva8mgPi7u5HM5sptcA8w'
+bot_token = 'SUA_API_KEY_DO_OPENAI'
 bot = telebot.TeleBot(bot_token)
 
 # Configuração da API do OpenAI
-openai.api_key = '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'
+openai.api_key = 'SUA_API_KEY_DO_OPENAI'
 
 # Mensagem de boas-vindas
 @bot.message_handler(commands=['start'])
